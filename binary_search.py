@@ -30,5 +30,5 @@ def binsearch(minimum, maximum, num):
         # increment counter
         count += 1
 
-print(binsearch(100, 1000, 200))
+print(binsearch(0, 100, 6))
 # 100 > 50 > 25 > 12 > 6 (4 steps)
